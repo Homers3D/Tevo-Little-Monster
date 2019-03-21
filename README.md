@@ -5,9 +5,9 @@ Welcome to the Github of the TEVO Little Monster 3D printer - you find here the 
 
 Actual TEVO Firmware Version: T-LM-X.XXXX
 
-Motherboard: MKS SBase 32bit
+Motherboard | Firmware
+MKS SBase 32bit | Smoothieware
 
-Firmware: Smoothieware
 
 
 ## Introduction 
