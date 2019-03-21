@@ -31,3 +31,21 @@ Welcome to the Github of the TEVO Little Monster 3D printer - you find here the 
 
 
 ## Update TEVO Little Monster Firmware - Flash Motherboard
+
+
+## Testing
+
+
+## Additional links
+
+- [TEVO Little Monster Infos](https://www.tevo.cn/products/3d-printers/tevo-little-monster/ "TEVO Little Monster Infos")
+- [TEVO Little Monster FAQ](https://help.tevo.cn/faq-categories/tevo-little-monster/ "TEVO Little Monster FAQ")
+
+- [TEVO Website](https://www.tevo.cn/ "Visit TEVO Website")
+- [TEVO Support](https://help.tevo.cn/ "Visit TEVO Support Suite")
+
+- [TEVO Official Webshop](https://tevo3dprinterstore.com "Visit TEVO Official Webshop")
+- [TEVO Aliexpress Shop](https://tevo.aliexpress.com/store/2010004 "Visit TEVO Aliexpress Shop")
+- [TEVO Amazon Store](https://www.amazon.com/stores/node/9447801011 " Visit TEVO Amazon Store")
+
+
